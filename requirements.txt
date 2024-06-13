@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+aioredis
+confluent-kafka
+mysqlclient
+bcrypt
+python-jose[cryptography]
